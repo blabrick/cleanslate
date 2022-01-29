@@ -3,4 +3,3 @@ second
 third
 burd
 turd
-nerd
